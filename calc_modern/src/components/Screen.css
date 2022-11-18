@@ -12,3 +12,7 @@
   font-weight: bold;
   box-sizing: border-box;
 }
+
+.screen:hover {
+  background-color: #174e7d2d;
+}
